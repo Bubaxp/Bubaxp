@@ -31,12 +31,6 @@ Argentino viviendo en Chile. Más de **9.000 saltos** dedicados a la **seguridad
 
 ---
 
-## 🔥 Actividad
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bubaxp&theme=dark&hide_border=true)
-
----
-
 ## 📍 Base
 Chile 🇨🇱 | Argentina 🇦🇷 | LATAM  
 
